@@ -2,7 +2,7 @@
 #Date: July 21, 2023
 
 
-#vehicle is the base class 
+#vehicle is the base class we will use
 class vehicle:
   def setVehicle_make(self, strMake):
     self.vehicle_make = strMake
